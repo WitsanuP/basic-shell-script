@@ -1,0 +1,2 @@
+# PID of script
+echo $$
